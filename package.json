@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn test"
   },
   "dependencies": {
-    "@assettler/core": "^0.4.0",
+    "@assettler/core": "0.x",
     "@deflock/path": "^0.1.0",
     "@deflock/string-trim": "^0.1.0"
   },
